@@ -1,0 +1,136 @@
+.hading h1{
+    color: red;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+
+/* nav{}
+nav ul{
+    background: black;
+    padding: 10px;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+
+}
+nav ul li a:hover{
+    background: red;
+} */
+
+/* table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+tr{}
+th{
+    background: green;
+    color: #fff;
+    padding: 8px;
+}
+td{ 
+    text-align: center;
+    padding: 7px;
+}
+table,tr,th,td{
+    border: 1px solid black;
+} */
+
+
+nav{}
+nav ul{
+    background: black;
+    padding: 10px;
+}
+nav ul li{
+    display: inline;
+   
+
+
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    
+    color: #fff;
+    padding: 10px;
+
+}
+nav ul li a:hover{
+    background: red;
+    
+}
+
+table{
+
+    width: 100%;
+}
+tr{
+    text-align: center;
+}
+th{
+    padding: 8px;
+    color: #fff;
+    background: green;
+
+}
+td{
+    padding: 8px;
+
+}
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+
+
+.full-card {
+    width: 100%;
+    margin-top: 10px;
+}
+.card{
+    width: 300px;
+    background: green;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+}
+.card img{
+    width: 100%;
+    border-radius: 5px;
+}
+.card h1{
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    background: black;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.card p{
+    text-align: justify;
+    color: rgb(248, 245, 247);
+}
+.card button{
+    padding: 10px;
+    background: black;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.card button:hover{
+    background: red;
+}
+
